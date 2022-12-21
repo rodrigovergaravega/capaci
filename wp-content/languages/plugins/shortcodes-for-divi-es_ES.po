@@ -1,0 +1,37 @@
+# Translation of Plugins - Shortcodes for Divi - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Shortcodes for Divi - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-06 17:29:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Shortcodes for Divi - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "WP Zone"
+msgstr "WP Zone"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpzone.co"
+msgstr "https://wpzone.co"
+
+#: shortcodes-for-divi.php:134
+msgid "Divi Library"
+msgstr "Biblioteca de Divi"
+
+#: shortcodes-for-divi.php:80
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#. Description of the plugin
+msgid "Create Shortcodes from Divi Library Layouts"
+msgstr "Crea shortcodes con Divi desde la biblioteca de diseños"
+
+#. Plugin Name of the plugin
+msgid "Shortcodes for Divi"
+msgstr "Shortcodes for Divi"

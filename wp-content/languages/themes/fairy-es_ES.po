@@ -1,0 +1,1112 @@
+# Translation of Themes - Fairy in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Fairy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-20 17:43:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Fairy\n"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Fairy"
+msgstr "Fairy"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Fairy is a free and minimal WordPress blog theme. It is a Gutenberg ready WordPress theme and compatible with all blocks and patterns of WordPress. This theme is developed based on customizer settings. You can see the live changes that you have made in customizer. Fairy also comes with added custom widgets for author, featured posts and social icons. It has top level menu, social icons, slider, promotional banner, sidebar option, Mailchimp subscription, and many more other features. In addition, it has copyright text, go to the top, footer widgets, blog page options, related posts, sticky sidebar, etc. This theme is lightweight and easy to use theme for travel blog, food blog, technology blog and fashion blog. You can also use this theme for news and magazine sites too. Furthermore, it comes with demo data to make the site like the demo, detailed documentation including video and text, free support via chat and forum. It is developed by the experts WordPress developers so that you will never look for alternatives after using this theme. Try this awesome and carefully crafted theme today. Demo: https://fairy.candidthemes.com/"
+msgstr "Fairy es un tema de blog gratuito y minimalista para WordPress. Es un tema para WordPress preparado para Gutenberg y compatible con todos los bloques y patrones de WordPress. Este tema está desarrollado en base a los ajustes del personalizador. Puedes ver en vivo en el personalizador los cambios que has hecho. Fairy también viene con widgets personalizados adicionales para el autor, las entradas destacadas y los iconos sociales. Tiene un menú superior, iconos sociales, carrusel, banner promocional, opción de barra lateral, suscripción con Mailchimp y muchas otras características. Además, tiene opciones para el texto del copyright, para ir a la parte superior, para los widgets del pie de página, para la página del blog, las entradas relacionadas, la barra lateral fija, etc. Este tema es ligero y fácil de usar para blogs de viajes, alimentación, tecnología y moda. También puedes usar este tema para sitios de noticias y revistas. Además, viene con datos de demostración, para hacer que el sitio sea como el de la demostración, con documentación detallada, incluyendo vídeo y texto y soporte gratuito a través de chat y del foro. Está desarrollado por los expertos desarrolladores de WordPress, para que nunca busques alternativas después de usar este tema. Prueba hoy este impresionante y cuidadosamente elaborado tema. Demostración: https://fairy.candidthemes.com/"
+
+#: candidthemes/functions/hook-content.php:127 functions.php:374
+msgid "Load More"
+msgstr "Cargar más"
+
+#: candidthemes/about/about.php:126
+msgid "Refined Magazine"
+msgstr "Refined Magazine"
+
+#: candidthemes/about/about.php:113
+msgid "Theme page"
+msgstr "Página del tema"
+
+#: candidthemes/about/about.php:108
+msgid "Important Links"
+msgstr "Enlaces importantes"
+
+#: candidthemes/about/about.php:72
+msgid "Default Demo"
+msgstr "Demostración por defecto"
+
+#: candidthemes/about/about.php:69
+msgid "View all Demos"
+msgstr "Ver todas las demostraciones"
+
+#: candidthemes/about/about.php:63
+msgid "Rate this theme"
+msgstr "Valorar este tema"
+
+#: candidthemes/customizer/customizer-default-values.php:69
+msgid "fa-long-arrow-alt-up"
+msgstr "fa-long-arrow-alt-up"
+
+#: candidthemes/customizer/customizer-footer-settings.php:91
+msgid "Font awesome class for font awesome 5"
+msgstr "Clase de Font Awesome para Font Awesome 5"
+
+#: candidthemes/customizer/customizer-footer-settings.php:93
+msgid "Enter fontaweome class like fa-long-arrow-alt-up, fa-angle-up, etc. You can find more icons here in"
+msgstr "Introduce una clase de Font Awesome, como «fa-long-arrow-alt-up», «fa-angle-up», etc. Puedes conseguir mas iconos aquí en las"
+
+#: candidthemes/customizer/customizer-footer-settings.php:95
+msgid "Fontawesome 5 lists and icons name"
+msgstr "Listas y nombres de iconos de Font Awesome 5"
+
+#: candidthemes/customizer/customizer-footer-settings.php:74
+#: candidthemes/customizer/customizer-footer-settings.php:96
+msgid "so that you can use any icon from here."
+msgstr "para que puedas usar cualquier icono desde aquí."
+
+#: candidthemes/customizer/customizer-extra-options.php:46
+msgid "Current Theme Used Version 4"
+msgstr "Versión 4 actualmente usada por el tema"
+
+#: candidthemes/customizer/customizer-default-values.php:68
+msgid "fa-long-arrow-up"
+msgstr "fa-long-arrow-up"
+
+#: candidthemes/customizer/customizer-extra-options.php:47
+msgid "New Fontaweome Version 5"
+msgstr "Nueva versión 5 de Font Awesome"
+
+#: candidthemes/customizer/customizer-extra-options.php:49
+msgid "Select the preferred fontawesome version"
+msgstr "Selecciona la versión preferida de Font Awesome"
+
+#: candidthemes/customizer/customizer-extra-options.php:50
+msgid "You can select the latest fontawesome version to get more options for icons"
+msgstr "Puedes seleccionar la última versión de Font Awesome para conseguir más opciones para los iconos"
+
+#: candidthemes/customizer/customizer-footer-settings.php:69
+msgid "Font awesome class"
+msgstr "Clase de Font Awesome"
+
+#: candidthemes/customizer/customizer-footer-settings.php:71
+msgid "Enter fontaweome class like fa-long-arrow-up, fa-angle-up, etc. You can find more icons here in"
+msgstr "Introduce la clase de Font Awesome, como «fa-long-arrow-up», «fa-angle-up», etc. Puedes encontrar más iconos aquí en"
+
+#: candidthemes/customizer/customizer-footer-settings.php:73
+msgid "Fontawesome lists and icons name"
+msgstr "Listas y nombre de iconos de Font Awesome"
+
+#: candidthemes/customizer/customizer-extra-options.php:13
+msgid "Extra Options"
+msgstr "Opciones adicionales"
+
+#: candidthemes/customizer/customizer-extra-options.php:26
+msgid "Show Post Published Date"
+msgstr "Mostrar la fecha de publicación de la entrada"
+
+#: candidthemes/customizer/customizer-extra-options.php:27
+msgid "Show Post Updated Date"
+msgstr "Mostrar la fecha de actualización de la entrada"
+
+#: candidthemes/customizer/customizer-extra-options.php:29
+msgid "Show Post Publish or Updated Date"
+msgstr "Mostrar la fecha de publicación o la fecha de actualización de la entrada"
+
+#: candidthemes/customizer/customizer-extra-options.php:30
+msgid "Show either post published or updated date."
+msgstr "Muestra la fecha de publicación o la fecha de actualización de la entrada."
+
+#: candidthemes/metabox/metabox-sidebar.php:53
+#: candidthemes/metabox/metabox-sidebar.php:62
+msgid "Sidebar Layout"
+msgstr "Diseño de la barra lateral"
+
+#: candidthemes/metabox/metabox-sidebar.php:119
+msgid "Choose Sidebar Template"
+msgstr "Elegir la plantilla de la barra lateral"
+
+#: candidthemes/metabox/metabox-sidebar.php:138
+msgid "You can set up the sidebar content"
+msgstr "Puedes configurar el contenido de la barra lateral"
+
+#: candidthemes/metabox/metabox-sidebar.php:138
+msgid "here"
+msgstr "aquí"
+
+#: candidthemes/customizer/customizer-typography.php:11
+msgid "Fonts Options"
+msgstr "Opciones de las fuentes"
+
+#: candidthemes/customizer/customizer-typography.php:23
+msgid "Paragraph Font"
+msgstr "Fuente del párrafo"
+
+#: candidthemes/customizer/customizer-typography.php:35
+msgid "Body Paragraph Font Family"
+msgstr "La familia de fuente del párrafo del cuerpo"
+
+#: candidthemes/customizer/customizer-typography.php:36
+msgid "Select the required font from the dropdown."
+msgstr "Selecciona la fuente necesaria desde el desplegable."
+
+#: candidthemes/customizer/customizer-typography.php:55
+msgid "Heading Font Family"
+msgstr "Familia de fuente del encabezado"
+
+#: candidthemes/customizer/customizer-typography.php:67
+msgid "Select Heading Font Family"
+msgstr "Seleccionar la familia de fuentes del encabezado"
+
+#: candidthemes/customizer/customizer-typography.php:68
+msgid "Select the required font from the dropdown(H1-H6)."
+msgstr "Selecciona la fuente necesaria desde el desplegable (H1-H6)."
+
+#: candidthemes/custom-widgets/candid-author-widget.php:278
+msgid "Upload Author Signature Image"
+msgstr "Sube la imagen de la firma del autor"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:296
+msgid "Upload Sign"
+msgstr "Subir la firma"
+
+#: candidthemes/customizer/customizer-single-page.php:57
+msgid "Enable Underline on Link"
+msgstr "Activar el subrayado en los enlaces"
+
+#: candidthemes/customizer/customizer-single-page.php:58
+msgid "If you enabled this, you will see the underline in the links. You can change it color from the general section of colors."
+msgstr "Si lo activas, verás el subrayado en los enlaces. Puedes cambiarle el color en la sección general de colores."
+
+#: candidthemes/customizer/customizer-site-layout.php:13
+msgid "Site Layout Options"
+msgstr "Opciones del diseño del sitio"
+
+#: candidthemes/customizer/customizer-site-layout.php:24
+msgid "Box Shadow of Blog and Sidebar"
+msgstr "Sombra de la caja del blog y de la barra lateral"
+
+#: candidthemes/customizer/customizer-site-layout.php:25
+msgid "Remove Box Shadow completely and make it clean."
+msgstr "Elimina la sombra de la caja completamente y la deja limpia."
+
+#: functions.php:200
+msgid "Shop Sidebar"
+msgstr "Barra lateral de la tienda"
+
+#: candidthemes/customizer/customizer-single-page.php:42
+msgid "Enable Posts Tags"
+msgstr "Activar las etiquetas de las entradas"
+
+#: candidthemes/customizer/customizer-single-page.php:43
+msgid "You can enable the post tags in single page."
+msgstr "Puedes activar las etiquetas de la entrada en la página individual."
+
+#: candidthemes/customizer/customizer-blog-page.php:29
+msgid "Full Image Layout"
+msgstr "Diseño de imagen completa"
+
+#. translators: %s: post title
+#: inc/template-tags.php:86
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:76
+msgid "Tagged %1$s"
+msgstr "Etiquetada como %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:73 inc/template-tags.php:240
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:69
+msgid "Posted in %1$s"
+msgstr "Publicada en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ", "
+
+#: candidthemes/custom-widgets/candid-author-widget.php:355
+msgid "VK:"
+msgstr "VK:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:337
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:328
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:319
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:310
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:301
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:269
+msgid "Description:"
+msgstr "Descripción:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:222
+msgid "About Us"
+msgstr "Sobre nosotros"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:150
+msgid "vk"
+msgstr "vk"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:143
+msgid "youtube"
+msgstr "youtube"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:136
+msgid "pinterest"
+msgstr "pinterest"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:129
+msgid "instagram"
+msgstr "instagram"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:122
+msgid "linkedin"
+msgstr "linkedin"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:115
+msgid "twitter"
+msgstr "twitter"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:108
+msgid "facebook"
+msgstr "facebook"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:27
+msgid "Display Author Profile."
+msgstr "Muestra el perfil del autor."
+
+#: candidthemes/custom-widgets/candid-recent-posts-widget.php:133
+msgid "Number of Posts to Display:"
+msgstr "Número de entradas a mostrar:"
+
+#: candidthemes/custom-widgets/candid-recent-posts-widget.php:126
+msgid "Widget Title:"
+msgstr "Título del widget:"
+
+#: candidthemes/custom-widgets/candid-recent-posts-widget.php:19
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: candidthemes/custom-widgets/candid-social-widget.php:87
+msgid "Please create menu and assign it."
+msgstr "Por favor, crea un menú y asígnalo."
+
+#: candidthemes/custom-widgets/candid-author-widget.php:238
+#: candidthemes/custom-widgets/candid-social-widget.php:79
+msgid "Title:"
+msgstr "﻿Título:"
+
+#: candidthemes/custom-widgets/candid-social-widget.php:32
+msgid "Fairy Social Icons"
+msgstr "Iconos sociales de Fairy"
+
+#: candidthemes/custom-widgets/candid-social-widget.php:30
+msgid "Social Menu Widget"
+msgstr "Widget del menú social"
+
+#: candidthemes/custom-widgets/candid-social-widget.php:18
+msgid "Follow Us"
+msgstr "Síguenos"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:69
+msgid "Sticky Sidebar Option"
+msgstr "Opción de la barra lateral fija"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:28
+#: candidthemes/customizer/customizer-sidebar-options.php:50
+msgid "Middle Column"
+msgstr "Columna central"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:27
+#: candidthemes/customizer/customizer-sidebar-options.php:49
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:26
+#: candidthemes/customizer/customizer-sidebar-options.php:48
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:25
+#: candidthemes/customizer/customizer-sidebar-options.php:47
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:13
+msgid "Sidebar Options"
+msgstr "Opciones de la barra lateral"
+
+#: candidthemes/customizer/customizer-footer-settings.php:39
+msgid "Enable Go to Top"
+msgstr "Activar «Ir arriba»"
+
+#: candidthemes/customizer/customizer-footer-settings.php:25
+msgid "Enter your own copyright text."
+msgstr "Introduce tu propio texto de copyright."
+
+#: candidthemes/customizer/customizer-single-page.php:73
+msgid "Enable Related Posts"
+msgstr "Activar las entradas relacionadas"
+
+#: candidthemes/customizer/customizer-single-page.php:26
+msgid "Enable Featured Image"
+msgstr "Activar la imagen destacada"
+
+#: candidthemes/customizer/customizer-category-boxes-options.php:59
+msgid "Select Category"
+msgstr "Seleccionar la categoría"
+
+#: candidthemes/customizer/customizer-blog-page.php:105
+msgid "Numeric"
+msgstr "Numérico"
+
+#: candidthemes/customizer/customizer-blog-page.php:104
+msgid "Default"
+msgstr "Defecto"
+
+#: candidthemes/customizer/customizer-blog-page.php:70
+#: candidthemes/customizer/customizer-slider.php:79
+msgid "Original Image"
+msgstr "Imagen original"
+
+#: candidthemes/customizer/customizer-blog-page.php:69
+#: candidthemes/customizer/customizer-slider.php:78
+msgid "Cropped Image"
+msgstr "Imagen recortada"
+
+#: candidthemes/customizer/customizer-blog-page.php:49
+msgid "Content"
+msgstr "Contenido"
+
+#: candidthemes/customizer/customizer-blog-page.php:48
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: candidthemes/customizer/customizer-blog-page.php:31
+msgid "Masonry or Normal Layout"
+msgstr "Diseño de muro o normal"
+
+#: candidthemes/customizer/customizer-blog-page.php:28
+msgid "Masonry Layout"
+msgstr "Diseño de muro"
+
+#: candidthemes/customizer/customizer-blog-page.php:27
+msgid "Normal Layout"
+msgstr "Diseño normal"
+
+#: candidthemes/customizer/customizer-blog-page.php:14
+msgid "Blog Section Options"
+msgstr "Opciones de la sección del blog"
+
+#: candidthemes/customizer/customizer-default-values.php:74
+msgid "Be the first to receive the latest buzz on upcoming contests & more!"
+msgstr "¡Sé el primero en recibir las últimas noticias sobre los próximos concursos y más!"
+
+#: candidthemes/customizer/customizer-default-values.php:73
+msgid "Subscribe to my Newsletter"
+msgstr "Suscríbete a mi boletín de noticias"
+
+#: candidthemes/customizer/customizer-default-values.php:50
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: candidthemes/customizer/customizer-default-values.php:37
+msgid "Read More"
+msgstr "Leer más"
+
+#: candidthemes/customizer/customizer-main-panel.php:13
+msgid "Fairy Theme Options"
+msgstr "Opciones del tema Fairy"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:80
+msgid "Write your own text in place of You are Here"
+msgstr "Escribe tu texto personalizado en lugar de «Estás aquí»"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:79
+msgid "Breadcrumb Text"
+msgstr "Texto de las migas de pan"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:60
+msgid "NavXT Breadcrumb"
+msgstr "Migas de pan de NavXT"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:59
+msgid "Rank Math Breadcrumb"
+msgstr "Migas de pan de Rank Math"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:58
+msgid "Yoast SEO Breadcrumb"
+msgstr "Migas de pan de Yoast SEO"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:57
+msgid "Theme Default Breadcrumb"
+msgstr "Migas de pan por defecto del tema"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:13
+msgid "Breadcrumb Options"
+msgstr "Opciones de las migas de pan"
+
+#: candidthemes/customizer/customizer-top-header.php:38
+msgid "Enable Top Header"
+msgstr "Activar la cabecera superior"
+
+#: candidthemes/customizer/customizer-top-header.php:13
+msgid "Top Header Options"
+msgstr "Opciones de la cabecera superior"
+
+#: candidthemes/customizer-pro/class-customize.php:76
+msgid "Unlock Full Features"
+msgstr "Desbloquear todas las características"
+
+#: candidthemes/functions/customizer-about-control.php:41
+msgid "If you like fairy Kindly Rate this Theme"
+msgstr "Si te gusta Fairy, por favor, valora este tema"
+
+#: candidthemes/functions/customizer-about-control.php:38
+msgid "Fairy Support"
+msgstr "Soporte de Fairy"
+
+#: candidthemes/about/about.php:116
+#: candidthemes/functions/customizer-about-control.php:34
+msgid "Support"
+msgstr "Soporte"
+
+#: candidthemes/functions/customizer-about-control.php:28
+msgid "Documentation"
+msgstr "Documentación"
+
+#: candidthemes/functions/customizer-about-control.php:24
+msgid "Fairy is clean and minimal WordPress theme for blog website."
+msgstr "Fairy es un tema para WordPress limpio y minimalista para blogs."
+
+#: candidthemes/functions/customizer-about-control.php:23 inc/customizer.php:53
+msgid "About Fairy"
+msgstr "Acerca de Fairy"
+
+#: candidthemes/functions/hook-header.php:11
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: candidthemes/functions/customizer-category-control.php:22
+msgid "&mdash; Select Category &mdash;"
+msgstr "&mdash; Seleccionar la categoría &mdash;"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: candidthemes/functions/hook-footer.php:86
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: candidthemes/functions/hook-footer.php:80
+msgid "Proudly powered by %s"
+msgstr "Funciona gracias a %s"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:864
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:836
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:1265
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:835
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:891
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:1261
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:834
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:863
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:890
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:917
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:1257
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:801
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:324
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:322
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:320
+msgid "Comment Page %s"
+msgstr "Página %s de comentarios"
+
+#. Translators: %s is the page number.
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:318
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: %s is the search query.
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:316
+msgid "Search results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:313
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:312
+msgid "Home"
+msgstr "Inicio"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:311
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:310
+msgid "Browse:"
+msgstr "Examinar:"
+
+#: candidthemes/notice/admin-notice.php:123
+msgid "Remind later"
+msgstr "Recordar más tarde"
+
+#. Translators: %1$s current user display name., %2$s Currently activated
+#. theme., %3$s Pro theme link., %4$s Coupon code.
+#: candidthemes/notice/admin-notice.php:102
+msgid "Howdy, %1$s! You've been using %2$s theme for a while now, and we hope you're happy with it. If you are looking for the premium features, you can %3$s. Moreover, you can use the coupon code %4$s to get 20 percent discount. Enjoy!"
+msgstr "¡Hola, %1$s! Has estado usando el tema %2$s durante un tiempo y esperamos que estés contento con él. Si estás buscando las características premium, puedes %3$s. Además, puedes usar el código de cupón %4$s para obtener un 20 por ciento de descuento. ¡Disfruta!"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en «%2$s»"
+msgstr[1] "%1$s comentarios en «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario en «%1$s»"
+
+#: 404.php:19
+msgid "404"
+msgstr "404"
+
+#. translators: %s: search query.
+#: search.php:34
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: functions.php:236
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:224
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:212
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:190 functions.php:202 functions.php:214 functions.php:226
+#: functions.php:238
+msgid "Add widgets here."
+msgstr "Añade aquí los widgets."
+
+#: functions.php:188
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:130
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:124
+msgid "L"
+msgstr "L"
+
+#: functions.php:123
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:118
+msgid "M"
+msgstr "M"
+
+#: functions.php:112
+msgid "S"
+msgstr "S"
+
+#: functions.php:111
+msgid "Small"
+msgstr "Pequeña"
+
+#: functions.php:59
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:58
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: functions.php:57
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: single.php:48
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: single.php:47
+msgid "Previous:"
+msgstr "Anterior:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:103 template-parts/content-page.php:41
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:26 template-parts/content-search.php:88
+#: template-parts/content-single.php:68 template-parts/content.php:89
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-search.php:75 template-parts/content-single.php:55
+#: template-parts/content.php:76
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: candidthemes/functions/hook-footer.php:77
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:346
+msgid "Youtube:"
+msgstr "YouTube:"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:264
+msgid "Upload Image"
+msgstr "Subir una imagen"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:246
+msgid "Select Image"
+msgstr "Seleccionar una imagen"
+
+#: candidthemes/customizer/customizer-footer-settings.php:24
+msgid "Copyright Text"
+msgstr "Texto del copyright"
+
+#: candidthemes/customizer/customizer-footer-settings.php:13
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: candidthemes/customizer/customizer-single-page.php:13
+msgid "Single Post Options"
+msgstr "Opciones de las entradas individuales"
+
+#: candidthemes/customizer/customizer-blog-page.php:50
+msgid "Hide Content"
+msgstr "Ocultar el contenido"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:63
+msgid "Theme has its own breadcrumb. If you want to use the plugin breadcrumb, you need to enable the breadcrumb on the respected plugins first. Check plugin settings and enable it."
+msgstr "El tema tiene sus propias migas de pan. Si quieres usar las migas de pan de un plugin, primero tienes que activar las migas de pan del respectivo plugin. Comprueba los ajustes del plugin y actívalas."
+
+#: candidthemes/customizer/customizer-breadcrumb.php:62
+msgid "Select the Breadcrumb Show Option"
+msgstr "Seleccionar las opciones para mostrar las migas de pan"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:25
+msgid "Enable Breadcrumb"
+msgstr "Activar las migas de pan"
+
+#: candidthemes/customizer/customizer-footer-settings.php:113
+#: candidthemes/customizer/customizer-top-header.php:53
+msgid "Enable Social Icons"
+msgstr "Activar los iconos sociales"
+
+#: candidthemes/customizer-pro/class-customize.php:77
+msgid "Upgrade To Pro"
+msgstr "Actualizar a Pro"
+
+#: candidthemes/functions/customizer-about-control.php:43
+msgid "Add Your Review"
+msgstr "Añadir tu valoración"
+
+#: candidthemes/functions/customizer-about-control.php:40
+msgid "Rate This Theme"
+msgstr "Valorar este tema"
+
+#: candidthemes/functions/customizer-about-control.php:35
+msgid "For support, Kindly contact us and we would be happy to assist!"
+msgstr "Para recibir soporte, por favor, contacta con nosotros y ¡estaremos encantados de ayudarte!"
+
+#: candidthemes/functions/customizer-about-control.php:31
+msgid "Fairy Documentation"
+msgstr "Documentación de Fairy"
+
+#: candidthemes/functions/customizer-about-control.php:29
+msgid "Read documentation to learn more about theme."
+msgstr "Lee la documentación para aprender más sobre el tema."
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:818
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:784
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#: candidthemes/assets/framework/breadcrumbs/breadcrumbs.php:314
+msgid "Archives"
+msgstr "Archivos"
+
+#: candidthemes/notice/admin-notice.php:129
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+#: candidthemes/notice/admin-notice.php:118
+msgid "Unlock More Features"
+msgstr "Desbloquear más características"
+
+#: candidthemes/notice/admin-notice.php:99
+msgid "unlock more features with pro theme"
+msgstr "desbloquear más características con el tema pro"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Parece que no se ha encontrado nada en esta ubicación. ¿Quizá podrías intentar una búsqueda o usar uno de los enlaces que se muestran a continuación?"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar esa página."
+
+#: functions.php:129
+msgid "Larger"
+msgstr "Muy grande"
+
+#: functions.php:117
+msgid "Medium"
+msgstr "Mediana"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda."
+
+#: candidthemes/customizer/customizer-colors.php:23
+msgid "Site Primary Color"
+msgstr "Color principal del sitio"
+
+#: candidthemes/customizer/customizer-colors.php:24
+msgid "It will change the color of site whole site."
+msgstr "Cambiará el color de todo el sitio."
+
+#: candidthemes/customizer/customizer-colors.php:45
+msgid "Header Description Color"
+msgstr "Color de la descripción de la cabecera"
+
+#: candidthemes/customizer/customizer-colors.php:46
+msgid "It will change the color of site header description."
+msgstr "Cambiará el color de la descripción del sitio en la cabecera."
+
+#: candidthemes/customizer/customizer-colors.php:64
+msgid "Overlay First Color"
+msgstr "Primer color de superposición"
+
+#: candidthemes/customizer/customizer-colors.php:65
+#: candidthemes/customizer/customizer-colors.php:80
+msgid "It will change the overlay color of slider and category box sections."
+msgstr "Cambiará el color de superposición de la caja de las secciones del carrusel y de la categoría."
+
+#: candidthemes/customizer/customizer-colors.php:79
+msgid "Overlay Second Color"
+msgstr "Segundo color de superposición"
+
+#: candidthemes/customizer/customizer-top-header.php:39
+msgid "Checked to show the top header section like search and social icons"
+msgstr "Márcalo para mostrar la sección de la cabecera superior, como la búsqueda y los iconos sociales"
+
+#: candidthemes/customizer/customizer-top-header.php:54
+msgid "You can show the social icons here. Manage social icons from Appearance > Menus. Social Menu will display here."
+msgstr "Puedes mostrar aquí los iconos sociales. Gestiona los iconos sociales desde «Apariencia > Menús». Aquí se mostrará el menú social."
+
+#: candidthemes/customizer/customizer-top-header.php:70
+msgid "Menu in Header"
+msgstr "Menú en la cabecera"
+
+#: candidthemes/customizer/customizer-top-header.php:71
+msgid "Top Header Menu will display here. Go to Appearance < Menu."
+msgstr "Aquí se mostrará el menú superior de la cabecera. Ve a «Apariencia > Menú»."
+
+#: candidthemes/customizer/customizer-top-header.php:87
+msgid "Search in Header"
+msgstr "Buscador en la cabecera"
+
+#: candidthemes/customizer/customizer-top-header.php:88
+msgid "Enable Search icon in Header"
+msgstr "Activar el icono del buscador en la cabecera"
+
+#: candidthemes/customizer/customizer-breadcrumb.php:26
+msgid "Breadcrumb will appear on all pages except home page. You can use  Yoast SEO, Rank Math or Breadcrumb NavXT plugin breadcrumb as well. Install the plugin and activate the breadcrumb from the settings."
+msgstr "Las migas de pan aparecerán en todas las páginas, excepto en la página de inicio. También puedes usar las migas de pan de los plugins Yoast SEO, Rank Math o Bradcrumb NavXT. Instala el plugin y activa las migas de pan desde los ajustes."
+
+#: candidthemes/customizer/customizer-blog-page.php:32
+msgid "Some image layout option will not work in masonry."
+msgstr "Alguna opción del diseño de las imágenes no funcionará en el muro."
+
+#: candidthemes/customizer/customizer-blog-page.php:52
+msgid "Select Content Display Option"
+msgstr "Seleccionar la opción de visualización del contenido"
+
+#: candidthemes/customizer/customizer-blog-page.php:53
+msgid "You can enable excerpt from Screen Options inside post section of dashboard"
+msgstr "Puedes activar el extracto desde las opciones de pantalla dentro de la sección de entradas del escritorio"
+
+#: candidthemes/customizer/customizer-blog-page.php:72
+#: candidthemes/customizer/customizer-slider.php:81
+msgid "Size of the image, either cropped or original"
+msgstr "Tamaño de la imagen, recortada u original"
+
+#: candidthemes/customizer/customizer-blog-page.php:73
+msgid "The image will be either cropped or original size based on the image. Recommended image size is 800*600 px."
+msgstr "La imagen será recortada o de tamaño original en base a la imagen. El tamaño recomendado de la imagen es de 800*600 px."
+
+#: candidthemes/customizer/customizer-blog-page.php:88
+msgid "Size of Excerpt Content"
+msgstr "Tamaño del contenido del extracto"
+
+#: candidthemes/customizer/customizer-blog-page.php:89
+msgid "Enter the number per Words to show the content in blog page."
+msgstr "Introduce el número de palabras a mostrar en el contenido de la página del blog."
+
+#: candidthemes/customizer/customizer-blog-page.php:108
+msgid "Pagination Types"
+msgstr "Tipos de paginación"
+
+#: candidthemes/customizer/customizer-blog-page.php:109
+msgid "Select the Required Pagination Type"
+msgstr "Selecciona el tipo de paginación necesaria"
+
+#: candidthemes/customizer/customizer-blog-page.php:123
+msgid "Enter Read More Text"
+msgstr "Introducir el texto de «Leer más»"
+
+#: candidthemes/customizer/customizer-blog-page.php:124
+msgid "Read more text for blog and archive page."
+msgstr "Texto «Leer más» para el blog y la página de archivo."
+
+#: candidthemes/customizer/customizer-category-boxes-options.php:13
+msgid "Category Boxes Options"
+msgstr "Opciones de las cajas para las categorías"
+
+#: candidthemes/customizer/customizer-category-boxes-options.php:24
+msgid "Enable Category Boxes Section"
+msgstr "Activar la sección de las cajas de la categoría"
+
+#: candidthemes/customizer/customizer-category-boxes-options.php:25
+msgid "Checked to show category boxes section in Home Page."
+msgstr "Márcalo para mostrar la sección de las cajas de la categoría en la página de inicio."
+
+#: candidthemes/customizer/customizer-category-boxes-options.php:60
+msgid "Three Posts from the same category will appear."
+msgstr "Aparecerán tres entradas de la misma categoría."
+
+#: candidthemes/customizer/customizer-slider.php:13
+msgid "Slider Section Options"
+msgstr "Opciones de la sección del carrusel"
+
+#: candidthemes/customizer/customizer-slider.php:38
+msgid "Enable Slider Section"
+msgstr "Activar la sección del carrusel"
+
+#: candidthemes/customizer/customizer-slider.php:39
+msgid "Checked to show slider section in Home Page."
+msgstr "Márcalo para mostrar la sección del carrusel en la página de inicio."
+
+#: candidthemes/customizer/customizer-slider.php:58
+msgid "Select Category For Slider Section"
+msgstr "Seleccionar la categoría para la sección del carrusel"
+
+#: candidthemes/customizer/customizer-slider.php:59
+msgid "From the dropdown select the category for the featured left section. Category having post will display in below dropdown."
+msgstr "En el menú desplegable, selecciona la categoría para la sección izquierda destacada. La categoría que tenga entradas se mostrará en el siguiente desplegable."
+
+#: candidthemes/customizer/customizer-slider.php:82
+msgid "The image will be either cropped or original size based on the image. Recommended image size is 1170*606 px. Make the image with this size and add in the featured image."
+msgstr "La imagen será recortada o de tamaño original en base a la imagen. El tamaño recomendado de la imagen es de 1170*606 px. Haz la imagen de este tamaño y añádela en la imagen destacada."
+
+#: candidthemes/customizer/customizer-single-page.php:27
+msgid "You can hide or show featured image on single page."
+msgstr "Puedes ocultar o mostrar la imagen destacada en las páginas individuales."
+
+#: candidthemes/customizer/customizer-single-page.php:74
+msgid "3 Post from similar category will display at the end of the page."
+msgstr "Al final de la página se mostrarán 3 entradas de categorías similares."
+
+#: candidthemes/customizer/customizer-single-page.php:102
+msgid "Related Posts Title"
+msgstr "Título de las entradas relacionadas"
+
+#: candidthemes/customizer/customizer-single-page.php:103
+msgid "Give the appropriate title for related posts"
+msgstr "Asigna el título apropiado para las entradas relacionadas"
+
+#: candidthemes/customizer/customizer-footer-settings.php:40
+msgid "Checked to Enable Go to Top"
+msgstr "Márcalo para activar «Ir arriba»"
+
+#: candidthemes/customizer/customizer-footer-settings.php:114
+msgid "Checked to Enable Social Icons. Make Social Menus from Appearance > Menus."
+msgstr "Márcalo para activar los iconos sociales. Crea los menús sociales desde «Apariencia > Menús»."
+
+#: candidthemes/customizer/customizer-footer-settings.php:131
+msgid "Mailchimp Subscribe Form"
+msgstr "Formulario de suscripción de Mailchimp"
+
+#: candidthemes/customizer/customizer-footer-settings.php:133
+msgid "Install and Customize"
+msgstr "Instala y personaliza"
+
+#: candidthemes/customizer/customizer-footer-settings.php:135
+msgid "Mailchimp Subscribe Plugin"
+msgstr "el plugin de suscripción Mailchimp"
+
+#: candidthemes/customizer/customizer-footer-settings.php:136
+msgid "and paste the form ID below."
+msgstr "y pega a continuación el ID del formulario."
+
+#: candidthemes/customizer/customizer-footer-settings.php:167
+msgid "Mailchimp Form ID"
+msgstr "ID del formulario de Mailchimp"
+
+#: candidthemes/customizer/customizer-footer-settings.php:168
+msgid "From your dashboard go to the mailchimp form plugin and get the ID and put here."
+msgstr "Desde tu escritorio, ve al formulario del plugin Mailchimp, obtén el ID y colócalo aquí."
+
+#: candidthemes/customizer/customizer-footer-settings.php:184
+msgid "Mailchimp Section Title"
+msgstr "Título de la sección de MailChimp"
+
+#: candidthemes/customizer/customizer-footer-settings.php:185
+msgid "Enter the title of subscribe."
+msgstr "Introduce el título para la suscripción."
+
+#: candidthemes/customizer/customizer-footer-settings.php:202
+msgid "Mailchimp Section Sub Title"
+msgstr "Subtítulo de la sección de Mailchimp"
+
+#: candidthemes/customizer/customizer-footer-settings.php:203
+msgid "Enter the sub title of subscribe."
+msgstr "Introduce el subtítulo para la suscripción."
+
+#: candidthemes/customizer/customizer-sidebar-options.php:30
+msgid "Blog Page Sidebar Layout"
+msgstr "Diseño de la barra lateral de la página del blog"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:31
+msgid "This sidebar will work for the blog, archive, category, author pages. More options is in pro theme."
+msgstr "Esta barra lateral funcionará para las páginas del blog, archivos, categorías y del autor. Hay más opciones en el tema pro."
+
+#: candidthemes/customizer/customizer-sidebar-options.php:52
+msgid "Inner Pages Sidebar Layout"
+msgstr "Diseño de la barra lateral de las páginas interiores"
+
+#: candidthemes/customizer/customizer-sidebar-options.php:53
+msgid "This sidebar will work for the single page and post. More options is in pro theme."
+msgstr "Esta barra lateral funcionará para las páginas y entradas individuales. Hay más opciones en el tema pro."
+
+#: candidthemes/customizer/customizer-sidebar-options.php:70
+msgid "Enable and Disable sticky sidebar from this section."
+msgstr "Activa y desactiva la barra lateral fija desde esta sección."
+
+#: candidthemes/custom-widgets/candid-recent-posts-widget.php:29
+msgid "Recent Posts Widget with Thumbnail."
+msgstr "Widget de entradas recientes con miniaturas."
+
+#: candidthemes/custom-widgets/candid-recent-posts-widget.php:31
+msgid "Fairy Recent Posts"
+msgstr "Entradas recientes de Fairy"
+
+#: candidthemes/custom-widgets/candid-author-widget.php:30
+msgid "Fairy Author"
+msgstr "Autor de Fairy"
+
+#: candidthemes/customizer/customizer-default-values.php:66
+msgid "All Rights Reserved 2022."
+msgstr "Todos los derechos reservados 2022."
+
+#: candidthemes/functions/customizer-about-control.php:26
+msgid "Fairy Demos"
+msgstr "Demostraciones de Fairy"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.candidthemes.com/"
+msgstr "https://www.candidthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "candidthemes"
+msgstr "candidthemes"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.candidthemes.com/themes/fairy"
+msgstr "https://www.candidthemes.com/themes/fairy"

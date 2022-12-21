@@ -1,0 +1,72 @@
+.banner-section, .list-section, .play-section{
+  width: auto;
+  height: auto;
+}
+/*List section*/
+.list-section h2{
+  font-weight: 500;
+}
+.list-section h2:before{
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  display: block;
+  font-size: 25px;
+}
+.list-section h2.home:before{
+  content: "\f015";
+}
+.list-section h2.music:before{
+  content: "\f001";
+}
+.list-section h2.record:before{
+  content: "\f130";
+}
+.list-section h2.premium:before{
+  content: "\f3a5";
+}
+.list-section h2.favourite:before{
+  content: "\f004";
+}
+.list-section h2.recent:before{
+  content: "\f1da";
+}
+.list-section h2:after {
+  content: '';
+  height: 1px;
+  width: 50px;
+  bottom: 0;
+  border: 1px solid #fff;
+  display: block;
+  margin: 15px auto;
+}
+/*Banner section*/
+.banner-section .baner-btn a.wp-block-button__link{
+  border-radius: 30px !important;
+}
+.banner-section .baner-btn a.wp-block-button__link:hover{
+  background: #1b2039 !important;
+}
+/*Player section*/
+.play-section, .play-section span{
+  background: linear-gradient(90deg, #ff498d -60%, #1b2039 65%, #ff498d 140%);
+}
+.play-section span{
+  background-color: transparent !important;
+}
+.play-section h3, .play-section p{
+  color: #fff !important;
+}
+/*Media*/
+@media screen and (min-width: 320px) and (max-width: 375px){
+  .inner-play .wp-block-audio audio{
+    min-width: auto;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 781px){
+  .outer-banner .wp-block-column.list-box:first-child{
+    flex-basis: 15% !important;
+  }
+  .outer-banner .wp-block-column.box-baner:nth-child(2) {
+    flex-basis: 85% !important;
+  }
+}
